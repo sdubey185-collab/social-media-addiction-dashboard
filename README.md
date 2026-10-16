@@ -59,9 +59,8 @@ An interactive **Power BI dashboard** that analyzes how social media usage affec
 ### Executive Overview
 ![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Executive%20Overview.png)
 
-
 ### Academic Impact
-![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Interactive%20Story%20View.png)
+![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Academic%20Impact.png)
 
 ### Mental Health
 ![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Mental%20Health.png)
@@ -70,8 +69,7 @@ An interactive **Power BI dashboard** that analyzes how social media usage affec
 ![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Relationship%20%26%20Conflics.png)
 
 ### Interactive Story View
-![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Students%20Profile.png)
+![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Interactive%20Story%20View.png)
 
 ### Student Profile
-
-
+![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Students%20Profile.png)
