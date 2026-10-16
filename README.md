@@ -57,10 +57,11 @@ An interactive **Power BI dashboard** that analyzes how social media usage affec
 ## 🖼️ Screenshots
 
 ### Executive Overview
-https://github.com/the-sushil-kumar/PhonePe-Digital-Payments/blob/main/PhonePe.jpg
+![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Executive%20Overview.png)
+
 
 ### Academic Impact
-![Academic Impact](screenshots/Power_BI_Social_Media_Addiction_Academic_Impact.png)
+![](Academic Impact](screenshots/Power_BI_Social_Media_Addiction_Academic_Impact.png)
 
 ### Mental Health
 ![Mental Health](screenshots/Power_BI_Social_Media_Addiction_Mental_Health.png)
