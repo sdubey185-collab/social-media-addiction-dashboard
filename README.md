@@ -73,14 +73,5 @@ An interactive **Power BI dashboard** that analyzes how social media usage affec
 ![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Students%20Profile.png)
 
 ### Student Profile
-![Student Profile](screenshots/Power_BI_Social_Media_Addiction_Students_Profile.png)
-
----
 
 
-
----
-
-## 👤 Author
-**Shalini Dubey**
-[LinkedIn](#) · [GitHub](#)
