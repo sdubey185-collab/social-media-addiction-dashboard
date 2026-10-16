@@ -61,7 +61,7 @@ An interactive **Power BI dashboard** that analyzes how social media usage affec
 
 
 ### Academic Impact
-![](Academic Impact](screenshots/Power_BI_Social_Media_Addiction_Academic_Impact.png)
+![](https://github.com/sdubey185-collab/social-media-addiction-dashboard/blob/main/Power%20BI_Social%20Media%20Addiction_Interactive%20Story%20View.png)
 
 ### Mental Health
 ![Mental Health](screenshots/Power_BI_Social_Media_Addiction_Mental_Health.png)
